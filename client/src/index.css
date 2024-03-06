@@ -1,0 +1,17 @@
+:root {
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* background: linear-gradient(-90deg, #00008b, #000033); */
+  background: linear-gradient(135deg, #4169e1, #00008b);
+}
+
+button {
+  cursor: pointer;
+}
