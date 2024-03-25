@@ -27,7 +27,6 @@ Face Recognizer is a web-based application that allows users to upload images co
   - MySQL for database storage
 
 - **Machine Learning API**:
-  - Machine Learning Framework (e.g., TensorFlow, PyTorch)
   - Pre-trained Model for Face Detection and Recognition
   - API Integration (e.g., REST API, SDK)
 
